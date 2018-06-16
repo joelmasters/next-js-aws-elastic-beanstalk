@@ -6,7 +6,9 @@ Head on over to https://nodejs.org/en/ and install Node JS.
 Head over to https://www.npmjs.com/get-npm to install NPM. 
 ### Create Project Folder
 Create a folder where you want your app to be stored on your local computer (either using a terminal or clicking using the standard operating system user interface).
+
 Now you will need the terminal. Open up the terminal and navigate to the folder you created. 
+
 Common commands:
 - `ls` - *lists the files and folders inside of your current directory*
 - `cd <folder name>` - *change folders to folder name specified*

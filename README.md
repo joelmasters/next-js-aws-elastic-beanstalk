@@ -1,4 +1,4 @@
-# next-js-aws-elastic-beanstalk
+# Deploying NextJS App to AWS Elastic Beanstalk
 ## 1.0 Getting Started
 ### Installing Node JS
 ### Installing NPM (Node Package Manager)
